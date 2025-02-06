@@ -26,7 +26,7 @@ SecureAuth is a modern, robust authentication system built with React, Redux, Fi
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/secure-auth.git
+git clone https://github.com/imkrishmkkk/secure-authentication-system.git
 cd secure-auth
 ```
 

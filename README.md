@@ -2,8 +2,7 @@
 
 SecureAuth is a modern, robust authentication system built with React, Redux, Firebase, and JWT. It provides a complete solution for secure user authentication and session management, ensuring that your web application’s protected resources are accessible only by authorized users.
 
-## website is live
-https://secure-authentication-system-usc4.onrender.com
+
 
 ## Key Features
 
